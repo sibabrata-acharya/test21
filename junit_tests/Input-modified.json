@@ -1,0 +1,31 @@
+{
+  "appname": "santoshtest423",
+  "authprovider": {
+    "Learn": {
+      "apiid": "478519535677977",
+      "apisecret": "a9bc36abea045066cd4be131e278ff80"
+    }
+  },
+  "logger": true,
+  "platform": {
+    "name": "Cloudfoundry",
+    "username": "admin",
+    "password": "admin",
+	"servicename": "santoshtest124"
+  },
+  "git": {
+    "url": "https://github.com/bsuryakala/Authentication-TemplateApp.git",
+    "repository": "origin",
+    "hosttype": "Bitbucket",
+    "username": "kasyap.aditya223@gmail.com",
+    "password": "shiv223acharya"
+  },
+  "Database": {
+    "name": "mongodb",
+    "host": "http://localhost",
+    "port": "27017",
+    "username": "testuser",
+    "password": "password-1",
+    "collectionname": "logger"
+  }
+}

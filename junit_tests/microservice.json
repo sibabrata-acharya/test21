@@ -1,0 +1,10 @@
+{
+    "Name": "Sibabrata Acharya",
+    "Database": "MySQL",
+    "Microservice List": [
+        "Services: Oauth",
+        "Services: DataCollector",
+        "Services: SSO",
+		"Services: Audit"
+    ]
+}
